@@ -1,0 +1,41 @@
+Sending to 256700000001: Hello deo, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256780000002: Hello aisha, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256750000004: Hello grace, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256760000006: Hello kevin, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256710000008: Hello patricia, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256720000009: Hello james, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256730000011: Hello rose, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256740000013: Hello martha, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256750000014: Hello esther, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256760000016: Hello rebecca, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256780000018: Hello david, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256790000019: Hello juliet, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256700000020: Hello isaac, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256710000021: Hello mercy, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256720000023: Hello agnes, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256730000024: Hello daniel, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256740000025: Hello emmanuel, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256750000026: Hello flavia, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256770000028: Hello irene, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256780000029: Hello joel, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256700000031: Hello michael, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256710000032: Hello naomi, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256720000033: Hello prossy, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256740000035: Hello ritah, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256750000036: Hello simon, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256760000037: Hello tom, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256770000038: Hello umar, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256780000039: Hello vivian, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256700000041: Hello xavier, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256710000042: Hello yvonne, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256720000043: Hello zainab, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256730000044: Hello allan, you are welcome to the Pahappa Programming Challenge Sprint
+Sending to 256740000045: Hello betty, you are welcome to the Pahappa Programming Challenge Sprint
+
+----- Summary -----
+Total processed: 50
+Valid unique contacts: 33
+Messages sent: 33
+Duplicates ignored: 4
+Invalid numbers ignored: 10
+Missing names: 3

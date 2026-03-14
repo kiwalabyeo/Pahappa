@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pahappa Challenge Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Pahappa Programming Challenge</h1>
+
+<h2>Statistics</h2>
+<ul id="stats"></ul>
+
+<h2>Sent Messages</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Phone</th>
+<th>Message</th>
+</tr>
+</thead>
+<tbody id="messages"></tbody>
+</table>
+
+<h3>Team</h3>
+<p>Team Name: Alpha Coders</p>
+<p>Ahamada Shamuran</p>
+<p>Oscar Kiwalabye</p>
+<p>Ojambo Nicolas</p>
+<p>Joseph Sembebwa</p>
+
+<script>
+
+fetch("dashboard_data.json")
+.then(response => response.json())
+.then(data => {
+
+const stats = data.stats
+const statsList = document.getElementById("stats")
+
+for (let key in stats){
+    let li = document.createElement("li")
+    li.textContent = key + ": " + stats[key]
+    statsList.appendChild(li)
+}
+
+const table = document.getElementById("messages")
+
+data.messages.forEach(m => {
+
+let row = `<tr>
+<td>${m.name}</td>
+<td>${m.phone}</td>
+<td>${m.message}</td>
+</tr>`
+
+table.innerHTML += row
+
+})
+
+})
+
+</script>
+
+</body>
+</html>
